@@ -1,0 +1,15 @@
+C:\Plinko\net7.0\Plinko.exe
+C:\Plinko\net7.0\Plinko.deps.json
+C:\Plinko\net7.0\Plinko.runtimeconfig.json
+C:\Plinko\net7.0\Plinko.dll
+C:\Plinko\net7.0\Plinko.pdb
+C:\Users\ytome\Projects\VSC repos\CS\Plinko\Plinko\obj\Debug\net7.0\Plinko.csproj.AssemblyReference.cache
+C:\Users\ytome\Projects\VSC repos\CS\Plinko\Plinko\obj\Debug\net7.0\Plinko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ytome\Projects\VSC repos\CS\Plinko\Plinko\obj\Debug\net7.0\Plinko.AssemblyInfoInputs.cache
+C:\Users\ytome\Projects\VSC repos\CS\Plinko\Plinko\obj\Debug\net7.0\Plinko.AssemblyInfo.cs
+C:\Users\ytome\Projects\VSC repos\CS\Plinko\Plinko\obj\Debug\net7.0\Plinko.csproj.CoreCompileInputs.cache
+C:\Users\ytome\Projects\VSC repos\CS\Plinko\Plinko\obj\Debug\net7.0\Plinko.dll
+C:\Users\ytome\Projects\VSC repos\CS\Plinko\Plinko\obj\Debug\net7.0\refint\Plinko.dll
+C:\Users\ytome\Projects\VSC repos\CS\Plinko\Plinko\obj\Debug\net7.0\Plinko.pdb
+C:\Users\ytome\Projects\VSC repos\CS\Plinko\Plinko\obj\Debug\net7.0\Plinko.genruntimeconfig.cache
+C:\Users\ytome\Projects\VSC repos\CS\Plinko\Plinko\obj\Debug\net7.0\ref\Plinko.dll

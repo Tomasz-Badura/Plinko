@@ -1,0 +1,2 @@
+C:\Users\ytome\Projects\VSC repos\CS\Plinko\Plinko\bin\Release\net7.0\publish\Plinko.pdb
+C:\Users\ytome\Projects\VSC repos\CS\Plinko\Plinko\bin\Release\net7.0\publish\Plinko.exe
