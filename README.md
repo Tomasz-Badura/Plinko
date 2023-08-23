@@ -1,5 +1,5 @@
 # Plinko
-**Simple plinko simulation - c# console application**
+**Simple plinko simulation - C# console application**
 
 Asks you for: 
 - board width (recommended 50);
